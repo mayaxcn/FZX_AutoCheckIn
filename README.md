@@ -4,5 +4,5 @@ FZX_AutoCheckIn
 * 本程序完全基于网页版微信协议和python库的ItChat在您的本机实现，不涉及用户任何隐私和安全问题！
 * 直接下载按提示填入设置信息即可[已编译版本](https://github.com/mayaxcn/Amazon-cookie-loader/releases/download/v1.0/Amazon-cookie-loader.zip)
 
-# 运行界面
+# 运行界面截图
 ![screensnapshot截图1](https://raw.githubusercontent.com/mayaxcn/FZX_AutoCheckIn/master/screensnapshot.PNG)
