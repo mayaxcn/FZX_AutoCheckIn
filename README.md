@@ -5,4 +5,4 @@ FZX_AutoCheckIn
 * 直接下载按提示填入设置信息即可[已编译版本](https://github.com/mayaxcn/Amazon-cookie-loader/releases/download/v1.0/Amazon-cookie-loader.zip)
 
 # 运行界面
-![screensnapshot截图1](https://github.com/mayaxcn/FZX_AutoCheckIn/screensnapshot.PNG)
+![screensnapshot截图1](https://raw.githubusercontent.com/mayaxcn/FZX_AutoCheckIn/master/screensnapshot.PNG)
