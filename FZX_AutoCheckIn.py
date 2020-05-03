@@ -13,7 +13,7 @@ print("\033[1;32m *** \033[0m \033[1;34m 分中心微信自动健康报告工具
 print("\033[1;32m ***                                *** \033[0m")
 print("\033[1;32m ************************************** \033[0m")
 
-print("\r\n\033[1;41m使用须知：本程序完全基于网页版微信协议在您的本机实现，不涉及用户任何隐私和安全问题！\r\n源代码已公开在 https://github.com/mayaxcn/FZX-AutoCheckin 上接受交流和审查 \033[0m\r\n")
+print("\r\n\033[1;41m使用须知：本程序完全基于网页版微信协议在您的本机实现，不涉及任何用户隐私和安全问题！\r\n源代码已公开在 https://github.com/mayaxcn/FZX-AutoCheckin 上接受交流和审查 \033[0m\r\n")
 print("## 根据提示设置需报告时间、报告群名称和报告内容即可 ##\r\n")
 
 def verify_date_str_lawyer(datetime_str):
